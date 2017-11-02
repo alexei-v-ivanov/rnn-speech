@@ -25,7 +25,7 @@ import util.audioprocessor as audioprocessor
 
 ENGLISH_CHAR_MAP = [
                     # Apostrophes with one or two letters
-                    "'d", "'ll", "'m", "n't", "'s", "s'", "'t", "'ve",
+                    "'d", "'ll", "'m", "'nt", "'s", "s'", "'t", "'ve",
                     # Double letters first
                     'bb', 'cc', 'dd', 'ee', 'ff', 'gg', 'ii', 'kk', 'll', 'mm', 'nn',
                     'oo', 'pp', 'rr', 'ss', 'tt', 'uu', 'zz',
